@@ -1,1 +1,1 @@
-this is updated index page
+this is updated index page after revert
